@@ -1,0 +1,46 @@
+.verify-form {
+    text-align: center;
+}
+
+.verify-card {
+    
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 35px;
+    padding: 1rem;
+    overflow: hidden;
+    background: white;
+    margin-left: 25%;
+    margin-right:25%;
+    margin-top: 10%;
+}
+.addpost{
+    text-align: center;
+    
+}
+.updatepost {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    cursor: pointer;
+    background: transparent;
+    border: 1px solid black;
+    color: #000000;
+    padding: 17px;
+  }  
+ button:focus {
+    outline: none;
+  } 
+ button:hover,
+ button:active {
+    background: #292929;
+    color: white;
+  }
+
+.wholeloginpage a:active, .wholeloginpage a:hover {
+    color: white;
+}

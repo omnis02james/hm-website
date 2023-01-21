@@ -1,0 +1,28 @@
+.image {
+    width:100%;
+    max-width:650px;
+}
+.post-content{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top:30px;
+}
+
+.post-actions button{
+    background-color: #8bd3a5; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size:16px;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.post-actions button:hover{
+    background-color: black;
+}

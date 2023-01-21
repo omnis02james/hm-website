@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+.verify-card h2 {
+    color: #87D68D;
+    font-family: 'Roboto', sans-serif;
+}
+
+.verify-card label {
+    font-family: 'Roboto', sans-serif;
+
+}
